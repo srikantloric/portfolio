@@ -1,10 +1,10 @@
 {
-  "name": "Food Ninja",
-  "short_name": "FoodNinja",
+  "name": "Srikant Loric",
+  "short_name": "Sloric",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#FFE9D2",
-  "theme_color": "#FFE1C4",
+  "background_color": "#FFC133",
+  "theme_color": "#F68C0D",
   "orientation": "portrait-primary",
   "icons": [
     {
